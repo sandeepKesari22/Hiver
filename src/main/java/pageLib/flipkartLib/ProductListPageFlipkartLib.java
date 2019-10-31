@@ -14,8 +14,4 @@ public class ProductListPageFlipkartLib extends ProductListPage {
     public void clickingOnItemInList(WebDriver driver){
         utils.click(getMobileName(),driver);
     }
-
-
-
-
 }
